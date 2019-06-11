@@ -21,7 +21,7 @@ import java.awt.*;
  
  
  
- public class VPN.java extends JComponent implements ActionListener {
+ public class VPN.java extends JComponent implements ActionListener 
 public JCheckBox check;
 public JButton but1;
 public JButton but2;
