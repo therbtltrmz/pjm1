@@ -62,7 +62,7 @@ window.setVisible(true);
 window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 window.getContentPane().setBackground(new Color(216,191,216));
 }
- 
+ } 
     public VPN(){
     //Specify the values and properties of the various controls and add to JFrame
     panel1 = new JPanel();
