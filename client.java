@@ -215,11 +215,11 @@ public void EliteButton(){
             if (e.getSource()== but5){
    JOptionPane.showMessageDialog(null, "Get a Premium Account From www.elitesbase.com");    
  
-            }
+            
  
  
  
-    }
+    
  
     
  
