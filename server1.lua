@@ -29,4 +29,4 @@ local service = require 'service'
 local session = service()
 
 session:listen()
-© 2019 GitHub, Inc.
+
