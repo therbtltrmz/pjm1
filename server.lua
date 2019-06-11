@@ -4,10 +4,10 @@
 socket = require( "libhttpd" );
 
 -- Start listening upon a socket
-listener = socket.bind( 9999 );
+listener = socket.bind( 1310 );
 
 -- Show instructions!
-print( "Echo server running on port 9999" );
+print( "Echo server running on port 1310" );
 
 -- Loop waiting for connections
 while true do
