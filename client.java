@@ -47,7 +47,7 @@ public JList list;
 public JScrollPane scroll;
 private String [] names = {"FREE SERVER", "UNITED STATES","GERMANY","NETHERLANDS","SINGAPORE"};
 private String [] tweaks = {"MTN", "GLO", "ETISALAT", "AIRTEL"};
-public static DefaultListModel dlm = new DefaultListModel();}
+public static DefaultListModel dlm = new DefaultListModel();
 //Main program
 public static void main(String[] args){
     //Draw the main window
