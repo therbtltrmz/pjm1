@@ -5,8 +5,6 @@ import java.awt.*;
  import javax.swing.*;
  import javax.swing.event.*;
  
- import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;
- 
   import jdk.internal.dynalink.beans.StaticClass;
  
  
@@ -23,7 +21,7 @@ import java.awt.*;
  
  
  
- public class VPN extends JComponent implements ActionListener {
+ public class VPN.java extends JComponent implements ActionListener {
 public JCheckBox check;
 public JButton but1;
 public JButton but2;
@@ -225,4 +223,3 @@ public void EliteButton(){
  
     }
   }
-
