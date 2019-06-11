@@ -22,6 +22,7 @@ import java.awt.*;
  
  
  public class VPN.java extends JComponent implements ActionListener 
+ {
 public JCheckBox check;
 public JButton but1;
 public JButton but2;
@@ -48,6 +49,7 @@ public JScrollPane scroll;
 private String [] names = {"FREE SERVER", "UNITED STATES","GERMANY","NETHERLANDS","SINGAPORE"};
 private String [] tweaks = {"MTN", "GLO", "ETISALAT", "AIRTEL"};
 public static DefaultListModel dlm = new DefaultListModel();
+}
 //Main program
 public static void main(String[] args){
     //Draw the main window
